@@ -1,32 +1,3 @@
-# Areas to improve on 
-''' -Maybe when user enters neither of the options, instead of just clearing 
-    screen automatically, let the user decides when to clear screen. Such as 
-    by pressing enter to continue.
-
-    -Add title or headers to all of the functions when in different pages
-
-    -Add timing so like minutes and hours
-
-    -Add a function specifically to be called on when user does not enter the
-    selected options, instead of copying the code over and over again
-
-    -Adding book part esp during (read/to-read) and (author,year and date), maybe 
-    be made more user friendly, # can be done so, using datetime to get the present time 
-    and when user inputs a time that is not present it would output error, same for year
-    and for (read/to-read) use if and else to make user input that ig
-    
-    -and also during adding book what if user doesnt enter anyting, just blank
-    -Bug exists only when user adds a same book again and again in the adding book phase,
-    but works properly when the book is already in the records and duplicate is detected
-'''
-'''
-Some feedbacks after the presentation:
-txt file should contain 20 books
-ISBN should support 13 or 10 digits(before 2007?)
-during the search book function, make it so that the user can search for author first or last name, and
-not the full name
-'''
-
 import os
 import time
 from datetime import datetime
