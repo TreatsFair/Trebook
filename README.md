@@ -57,4 +57,4 @@ python trebook.py
 - Institution: Sunway University, Faculty of Engineering and Technology, BSc (Hons) in Computer Science
 - Course: CSC1240 - Programming Principles
 
-This project demonstrates core programming concepts such as **file handling**, **data manipulation**, **modular programming**, and **menu-driven interface design** in Python.  
+This project was developed as part of the Programming Principles course, demonstrating core programming concepts such as **file handling**, **data manipulation**, **modular programming**, and **menu-driven interface design** in Python.  
